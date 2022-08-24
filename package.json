@@ -1,6 +1,6 @@
 {
   "name": "@kaiseki/gutenberg-styles",
-  "version": "0.1.0-alpha1",
+  "version": "0.1.0-alpha2",
   "license": "MIT",
   "description": "@wordpress/base-styles variables exported to JS",
   "type": "module",
